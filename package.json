@@ -1,0 +1,11 @@
+{
+  "name": "periscope",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "henriquetty <gamercaipira@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "yargs": "^15.0.2"
+  }
+}
