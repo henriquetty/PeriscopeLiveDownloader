@@ -6,4 +6,4 @@
 - Refactore code
 
 ------------
-<center>**PeriscopeLiveDownloader**</center>
+<center>PeriscopeLiveDownloader</center>
